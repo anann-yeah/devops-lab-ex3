@@ -1,2 +1,1 @@
-def calculate():
-    print("si")
+print("Calculator")
